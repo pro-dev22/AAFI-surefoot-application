@@ -1,4 +1,3 @@
-
 const messageSpan = document.createElement('span');
 messageSpan.className = 'oxo-kitchen-message';
 messageSpan.textContent = "OXO products are used in over 10 million kitchens. You're in good company!";
