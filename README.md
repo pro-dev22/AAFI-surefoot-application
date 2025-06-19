@@ -49,6 +49,5 @@ Target URL: Exactly https://www.oxo.com/oxo-good-grips-12-piece-smart-seal-glass
 </ol>
 <br/><br/>
 
-addRecommendationSection();
 
 
