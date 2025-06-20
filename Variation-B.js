@@ -86,3 +86,4 @@ if (button && promoBlock) {
   `;
   document.head.appendChild(style);
 }
+
