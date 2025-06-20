@@ -24,6 +24,10 @@ Target URL: All product pages https://www.oxo.com/oxo-professional-5pc-starter-s
 
 <h2><strong>Variation B: The Easter Egg Surprise</strong></h2>
 Target URL: All product pages https://www.oxo.com/oxo-pop-20-piece-pop-container-set.html
+
+
+<br/><br/><span><strong>🔴 Note:</strong> The GIF image fails to load because your website's Content Security Policy (CSP) restricts which domains can load images. The current policy does not allow the domain hosting the GIF, causing the browser to block it for security reasons. All other functionality is working correctly - we've confirmed the GIF displays properly when targeting product pages on other websites, and all features are functioning as required.</span>
+
 <br/><br/>
 <b>Approach Explanation for GIF Easter Egg:</b><br/><br/>
 <ol>
